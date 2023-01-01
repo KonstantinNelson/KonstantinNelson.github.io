@@ -1,0 +1,52 @@
+{
+  "metaTitle": "Konstantin's link central",
+  "metaDescription": "Where my links live",
+  "name": "Konstantin Nelson",
+  "theme": "glitch",
+  "avatarImage": "https://cdn.glitch.global/9157a480-1a05-43d6-8c3b-44a0d26cd878/portrait.jpg?v=1667762854738",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/konstantin-nelson/",
+      "text": "LinkedIn",
+      "img":"",
+      "altText": ""
+    },
+    {
+      "url": "https://www.instagram.com/_konstantin_nelson_/",
+      "text": "Instagram",
+      "img": ""
+    },
+    {
+      "url": "mailto:kons@tamu.edu",
+      "text": "Email",
+      "img": ""
+    }
+
+  ],
+  "social": {
+    "glitch": "",
+    "spotify": "",
+    "substack": "",
+    "dev": "",
+    "facebook": "",
+    "github": "",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "",
+    "linkedin": "",
+    "medium": "",
+    "patreon": "",
+    "pinterest": "",
+    "twitter": "",
+    "youtube": "",
+    "twitch": "",
+    "tiktok": "",
+    "podcast": "",
+    "soundcloud": "",
+    "bandcamp": "",
+    "mastodon": "",
+    "stackoverflow": "",
+    "kofi": "",
+    "email": ""
+  }
+}
